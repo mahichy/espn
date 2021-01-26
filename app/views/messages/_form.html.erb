@@ -1,0 +1,7 @@
+<%= simple_form_for @message do |f| %>
+  <%= f.input :title, label: "Post Message" %>
+  <%= f.input :description %>
+  <%= f.button :submit %>
+<% end %>
+
+<%= link_to 'Home Page', root_path %>
