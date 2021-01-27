@@ -19,6 +19,7 @@ gem 'simple_form'
 
 gem 'jquery-rails'
 gem 'devise', '~> 4.7.0'
+gem 'hirb'
 
 
 
