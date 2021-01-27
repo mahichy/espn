@@ -18,6 +18,7 @@ gem 'sassc-rails', '>= 2.1.0'
 gem 'simple_form'
 
 gem 'jquery-rails'
+gem 'devise', '~> 4.7.0'
 
 
 
